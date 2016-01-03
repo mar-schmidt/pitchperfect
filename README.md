@@ -1,4 +1,38 @@
-# pitchperfect
-Udacity iOS Nanodegree course
+# Pitch Perfect
+_Udacity iOS Nanodegree course_
 
-iPhone app that will allow users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader. This app will also let the user speed up or slow down the rate of playback.
+iPhone app that will allow users to record their voice and will then modulate the recorded audio
+
+## Install
+Download project zip and open **Pitch Perfect.xcodeproj** in XCode
+
+## Usage
+After successfully recorded an audio-session, the app will let the user change the recorded sound to reflect one of the following sounds:
+
+* Speed up rate of playback
+* Slow down rate of playback
+* Chipmunk
+* Darth Vader
+
+## License
+The MIT License (MIT)
+
+Copyright (c) [2016] [Pitch Perfect]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
